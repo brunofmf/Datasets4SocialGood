@@ -17,7 +17,7 @@ Fernandes, B., Silva, F., Alaiz-Moreton, H., Novais, P., Neves, J. & Analide, C.
 ## Traffic dataset
 When using this dataset please cite:
 
-Fernandes, B., Silva, F., Alaiz-Moreton, H., Novais, P., Neves, J. & Analide, C.: <i>Long Short-Term Memory Networks for Traffic Flow Forecasting: Exploring Input Variables, Time Frames and Multi-Step Approaches</i>. Accepted for publication in INFORMATICA journal.
+Fernandes, B., Silva, F., Alaiz-Moreton, H., Novais, P., Neves, J. & Analide, C.: <i>Long Short-Term Memory Networks for Traffic Flow Forecasting: Exploring Input Variables, Time Frames and Multi-Step Approaches</i>.
 
 ## Ultraviolet dataset
 When using this dataset please cite:
