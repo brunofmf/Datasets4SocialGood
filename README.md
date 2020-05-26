@@ -7,7 +7,7 @@ Data is provided to the public strictly for educational and academic research pu
 ## Personality dataset
 When using this dataset please cite:
 
-Fernandes, B., Calafate, M., González-Briones, A., Novais, P., Neves, J. & Analide, C.: <i>An Adjective Selection Personality Assessment Test using Gradient Boosting Machine Learning</i>. Processes 8(5):618. 2020. DOI: 10.3390/pr8050618.
+Fernandes, B., González-Briones, A., Novais, P., Calafate, M., Analide, C. & Neves, J.: <i>An Adjective Selection Personality Assessment Method Using Gradient Boosting Machine Learning</i>. Processes 8(5):618. 2020. DOI: 10.3390/pr8050618.
 
 ## Pollution dataset
 When using this dataset please cite:
