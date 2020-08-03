@@ -1,6 +1,6 @@
 # Datasets4SocialGood
 
-Repository of datasets
+Datasets repository.
 
 Data is provided to the public strictly for educational and academic research purposes.
 
