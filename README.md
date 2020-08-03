@@ -2,7 +2,7 @@
 
 Datasets repository.
 
-Data is provided to the public strictly for educational and academic research purposes.
+Data are provided to the public strictly for educational and academic research purposes.
 
 ## Personality datasets
 When using these datasets please cite:
