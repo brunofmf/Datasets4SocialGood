@@ -3,7 +3,7 @@
 Datasets repository.
 
 Data are provided to the public strictly for educational and academic research purposes.
-When using these datasets please cite this repository and:
+When using a dataset please cite this repository and the corresponding paper:
 
 ## Personality datasets
 Fernandes, B., González-Briones, A., Novais, P., Calafate, M., Analide, C. & Neves, J., <i>An Adjective Selection Personality Assessment Method Using Gradient Boosting Machine Learning</i>. Processes, Vol. 8(5):618, 2020. DOI: 10.3390/pr8050618.
